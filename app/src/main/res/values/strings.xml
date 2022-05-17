@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bigger Number Game</string>
+    <string name="number_guessing_game">Number Guessing Game</string>
+    <string name="press_the_button_which_contain_the_larger_number">Press the button which contain the larger number</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+</resources>
