@@ -13,6 +13,11 @@ The following **required** functionality is completed:
 * [x] User can select  one of the two button shows 
 * [x] Pop up appeared either user is correct or wrong 
 
+Here's a walkthrough of implemented user stories:
+
+
+<img src="" height="500">
+
 
 
 ## Notes
