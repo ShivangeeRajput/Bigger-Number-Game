@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="" height="500">
+<img src="https://user-images.githubusercontent.com/100294737/184531453-32ce0f77-6b29-4bca-8ffd-d2ea0f4cbec4.jpg" height="500">
 
 
 
