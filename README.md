@@ -2,7 +2,7 @@
 
 ## *Shivangee Rajput*
 
-**Bigger Number Game ** propose the user to select largest number between the two numbers.
+**Bigger Number Game ** Bigger Number App (aka "Cal Admission Test") prompts the user to select which of the two numbers presented is larger. The background color is updated depending on if the correct answer is chosen. New numbers are randomly selected after a user selection.
 
 Time spent: **10** hours spent in total
 
